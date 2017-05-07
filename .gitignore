@@ -27,7 +27,7 @@ hs_err_pid*
 .idea/**/uiDesigner.xml
 
 # Gradle:
-.idea/**/gradle.xmlgit diff 
+.idea/**/gradle.xmlgit diff
 .idea/**/libraries
 
 # IntelliJ
