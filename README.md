@@ -1,2 +1,1 @@
-# Java-annotations
-Java Annotations
+# Java Annotations 101
